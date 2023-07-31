@@ -53,9 +53,9 @@ cd Java-CarDealership-Project
 
 ## Note
 
-The Car Dealership Software must be compiled and run using an Integrated Development Environment (IDE) like IntelliJ or NetBeans. The provided .json schema for Oracle SQL Developer Connection should be imported into the database to ensure proper functioning.
-
-**Important**: Due to the usage of absolute paths for pictures within the program, please make necessary adjustments to the picture paths based on your local environment setup.
+1. The Car Dealership Software must be compiled and run using an Integrated Development Environment (IDE) like IntelliJ or NetBeans. The provided .json schema for Oracle SQL Developer Connection should be imported into the database to ensure proper functioning.
+2. Make sure to create Maven project and use above two API's (iText and OJDBC)
+3. Due to the usage of absolute paths for pictures within the program, please make necessary adjustments to the picture paths based on your local environment setup.
 
 ## User Interface
 
