@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ojdbc11">
+    <CLASSES>
+      <root url="jar://C:/iText/itextpdf-5.5.9.jar!/" />
+      <root url="jar://C:/OJDBC/ojdbc11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
