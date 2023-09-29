@@ -1,0 +1,55 @@
+Starting "LAB_FINAL"."EXP_SD_5148-10_34_48":  
+Estimate in progress using BLOCKS method...
+Processing object type SCHEMA_EXPORT/TABLE/TABLE_DATA
+.  estimated "LAB_FINAL"."EXP_SD_5142-10_18_10"            448 KB
+.  estimated "LAB_FINAL"."ADDRESS"                          64 KB
+.  estimated "LAB_FINAL"."ADMIN"                            64 KB
+.  estimated "LAB_FINAL"."BOOKING"                          64 KB
+.  estimated "LAB_FINAL"."CAR"                              64 KB
+.  estimated "LAB_FINAL"."CUSTOMER"                         64 KB
+.  estimated "LAB_FINAL"."MANUFACTURER"                     64 KB
+.  estimated "LAB_FINAL"."NAME"                             64 KB
+.  estimated "LAB_FINAL"."PERSON"                           64 KB
+.  estimated "LAB_FINAL"."PICTURE"                          64 KB
+.  estimated "LAB_FINAL"."SEDAN"                            64 KB
+.  estimated "LAB_FINAL"."SPORTS"                           64 KB
+.  estimated "LAB_FINAL"."STATS"                            64 KB
+.  estimated "LAB_FINAL"."SUV"                              64 KB
+.  estimated "LAB_FINAL"."HATCH_BACK"                        0 KB
+.  estimated "LAB_FINAL"."JEEP"                              0 KB
+.  estimated "LAB_FINAL"."PAYMENT"                           0 KB
+Total estimation using BLOCKS method: 1.25 MB
+Processing object type SCHEMA_EXPORT/USER
+Processing object type SCHEMA_EXPORT/SYSTEM_GRANT
+Processing object type SCHEMA_EXPORT/ROLE_GRANT
+Processing object type SCHEMA_EXPORT/DEFAULT_ROLE
+Processing object type SCHEMA_EXPORT/PRE_SCHEMA/PROCACT_SCHEMA
+Processing object type SCHEMA_EXPORT/TABLE/TABLE
+Processing object type SCHEMA_EXPORT/TABLE/INDEX/INDEX
+Processing object type SCHEMA_EXPORT/TABLE/CONSTRAINT/CONSTRAINT
+Processing object type SCHEMA_EXPORT/TABLE/INDEX/STATISTICS/INDEX_STATISTICS
+Processing object type SCHEMA_EXPORT/TABLE/COMMENT
+Processing object type SCHEMA_EXPORT/TABLE/CONSTRAINT/REF_CONSTRAINT
+Processing object type SCHEMA_EXPORT/TABLE/STATISTICS/TABLE_STATISTICS
+. . exported "LAB_FINAL"."EXP_SD_5142-10_18_10"          46.53 KB    1185 rows
+. . exported "LAB_FINAL"."ADDRESS"                       5.070 KB      11 rows
+. . exported "LAB_FINAL"."ADMIN"                         4.796 KB       1 rows
+. . exported "LAB_FINAL"."BOOKING"                       5.312 KB      13 rows
+. . exported "LAB_FINAL"."CAR"                           5.546 KB      10 rows
+. . exported "LAB_FINAL"."CUSTOMER"                      4.867 KB       4 rows
+. . exported "LAB_FINAL"."MANUFACTURER"                  5.140 KB       6 rows
+. . exported "LAB_FINAL"."NAME"                          5.078 KB      11 rows
+. . exported "LAB_FINAL"."PERSON"                        5.382 KB      11 rows
+. . exported "LAB_FINAL"."PICTURE"                       5.351 KB      16 rows
+. . exported "LAB_FINAL"."SEDAN"                         4.812 KB       2 rows
+. . exported "LAB_FINAL"."SPORTS"                        4.859 KB       6 rows
+. . exported "LAB_FINAL"."STATS"                         4.898 KB      13 rows
+. . exported "LAB_FINAL"."SUV"                           4.804 KB       2 rows
+. . exported "LAB_FINAL"."HATCH_BACK"                        0 KB       0 rows
+. . exported "LAB_FINAL"."JEEP"                              0 KB       0 rows
+. . exported "LAB_FINAL"."PAYMENT"                           0 KB       0 rows
+Master table "LAB_FINAL"."EXP_SD_5148-10_34_48" successfully loaded/unloaded
+******************************************************************************
+Dump file set for LAB_FINAL.EXP_SD_5148-10_34_48 is:
+  C:\USERS\ABDULLAH\DESKTOP\EXPDAT01-10_36_05.DMP
+Job "LAB_FINAL"."EXP_SD_5148-10_34_48" successfully completed at 10:36:11
